@@ -1,0 +1,1 @@
+this repo is learning, testing and side-projects regarding linux
